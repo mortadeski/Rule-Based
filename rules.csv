@@ -1,0 +1,4 @@
+type,parameter,operator,value
+server,os,eq,CentOS
+server,osVersion,lt,9
+vulnerability,risk,gt,7.5
